@@ -1,0 +1,18 @@
+final commit message
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	modified:   outputs/report.json
+#	modified:   outputs/report.md
+#	modified:   src/csv_profiler/__pycache__/__init__.cpython-311.pyc
+#	modified:   src/csv_profiler/__pycache__/cli.cpython-311.pyc
+#	modified:   src/csv_profiler/__pycache__/io.cpython-311.pyc
+#	modified:   src/csv_profiler/__pycache__/profiling.cpython-311.pyc
+#	modified:   src/csv_profiler/__pycache__/render.cpython-311.pyc
+#	modified:   src/csv_profiler/app.py
+#

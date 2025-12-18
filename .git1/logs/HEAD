@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 2c68a8f92c9869bacfc568e65965e620cde10187 Abdulrhman3333 <amahfozbagasher@stu.kau.edu.sa> 1765806712 +0300	commit (initial): first commit
+2c68a8f92c9869bacfc568e65965e620cde10187 34e92c67dee5ad2c1fa916061598337d673d55d0 Abdulrhman3333 <amahfozbagasher@stu.kau.edu.sa> 1765818320 +0300	commit: second commit
+34e92c67dee5ad2c1fa916061598337d673d55d0 40b8536e68619c04385db297b05fb4ce9df0bddc Abdulrhman3333 <amahfozbagasher@stu.kau.edu.sa> 1765819396 +0300	commit: third commit
+40b8536e68619c04385db297b05fb4ce9df0bddc 477e57ec16890e49490262b022442521d42df491 Abdulrhman3333 <amahfozbagasher@stu.kau.edu.sa> 1765902658 +0300	commit: final of day1
+477e57ec16890e49490262b022442521d42df491 477e57ec16890e49490262b022442521d42df491 Abdulrhman3333 <amahfozbagasher@stu.kau.edu.sa> 1765902851 +0300	checkout: moving from main to day2
+477e57ec16890e49490262b022442521d42df491 477e57ec16890e49490262b022442521d42df491 Abdulrhman3333 <amahfozbagasher@stu.kau.edu.sa> 1765903678 +0300	checkout: moving from day2 to main
+477e57ec16890e49490262b022442521d42df491 477e57ec16890e49490262b022442521d42df491 Abdulrhman3333 <amahfozbagasher@stu.kau.edu.sa> 1765903719 +0300	checkout: moving from main to main
+477e57ec16890e49490262b022442521d42df491 34e92c67dee5ad2c1fa916061598337d673d55d0 Abdulrhman3333 <amahfozbagasher@stu.kau.edu.sa> 1765904040 +0300	reset: moving to 34e92c67dee5ad2c1fa916061598337d673d55d0
+34e92c67dee5ad2c1fa916061598337d673d55d0 f365c4af7405c6c2bad3316ffbe2da1066129b40 Abdulrhman3333 <amahfozbagasher@stu.kau.edu.sa> 1765966996 +0300	commit: temp
+f365c4af7405c6c2bad3316ffbe2da1066129b40 3eacefde7607266fe3681365000a20839da2bd22 Abdulrhman3333 <amahfozbagasher@stu.kau.edu.sa> 1765967442 +0300	commit (merge): Merge branch 'main' of https://github.com/Abdulrhman3333/csv-profiler
+3eacefde7607266fe3681365000a20839da2bd22 4309836755ed747b8bda857d97a95a75212f434b Abdulrhman3333 <amahfozbagasher@stu.kau.edu.sa> 1765974906 +0300	pull --tags origin main: Fast-forward
+4309836755ed747b8bda857d97a95a75212f434b e8c33dc59815de968c5c423512d1479b1363a839 Abdulrhman3333 <amahfozbagasher@stu.kau.edu.sa> 1766042510 +0300	commit: test3
+e8c33dc59815de968c5c423512d1479b1363a839 63d4c865d580e398ce7b948a88dea130b5c8c1c6 Abdulrhman3333 <amahfozbagasher@stu.kau.edu.sa> 1766059612 +0300	pull --tags origin main: Fast-forward
+63d4c865d580e398ce7b948a88dea130b5c8c1c6 a79f994b2592a6ed303dc2bdadad7e8f49d768bb Abdulrhman3333 <amahfozbagasher@stu.kau.edu.sa> 1766066689 +0300	commit: final commit message
